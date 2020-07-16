@@ -1,0 +1,61 @@
+.Wrapper{
+    width: 1000px;
+	height: 400px;
+	margin: 0 auto;
+}
+#Header{
+    height: 100px;
+    background-color: #fe0000;
+}
+#Top{
+    background-color: #fef200;
+    height: 500px;
+    float: left;
+    width: 250px;
+}
+#Bottom{
+    height: 500px;
+    background-color: #e600ff;
+    position: relative;
+    float: left;
+    width: 250px;
+    bottom: -1px;
+}
+#Right{
+    height: 500px;
+    background-color: #1b1464;
+    position: relative;
+    float: left;
+    width: 250px;
+    bottom: -1px;
+}
+#Izquierda{
+    height: 500px;
+    background-color: #3ab54b;
+    position: relative;
+    float: left;
+    width: 250px;
+    bottom: -1px;
+}
+#Azul{
+    height: 300px;
+    background-color: #0a589a;
+    position: relative;
+    float: left;
+    width: 500px;
+}
+#Gris{
+    height: 300px;
+    background-color: #363636;
+    position: relative;
+    float: left;
+    width: 500px;
+}
+#Final{
+    height: 50px;
+    background-color: #fe0000;
+    float: left;
+    width: 1000px;
+    bottom: -1px;
+    position: relative;
+}
